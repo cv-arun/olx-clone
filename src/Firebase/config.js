@@ -6,7 +6,7 @@ import 'firebase/firebase-firestore'
 import 'firebase/firestore'
 
 const firebaseConfig = {
-    apiKey: "AIzaSyB3mF_aBS2KlZNUaeIQ8I-tJ9tBPGeFlDU",
+    apiKey: API_key,
     authDomain: "olx-clone-64684.firebaseapp.com",
     projectId: "olx-clone-64684",
     storageBucket: "olx-clone-64684.appspot.com",
